@@ -1,0 +1,2095 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622704238d06abf46a6e3e0467d59f56, type: 3}
+  m_Name: TrackingImageDatabase
+  m_EditorClassIdentifier: 
+  m_Images:
+  - Name: 19120500000
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 711c9f3e351b55a4f81bce94b5c85583
+  - Name: 19120500001
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 9e68f7cc07db5514f84eb20c03dd3e37
+  - Name: 19120500002
+    Width: 397
+    Height: 0
+    Quality: 40
+    TextureGUID: a62b2a10322c6ca418f158353ab298b9
+  - Name: 19120500003
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: 36061c2a459c4ab4c94616b5812ce9d8
+  - Name: 19120500004
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: 615b4a7af349d6045892bd7efc1b0564
+  - Name: 19120500005
+    Width: 397
+    Height: 0
+    Quality: 38
+    TextureGUID: 22f6421438afbc2478c0e9112214f557
+  - Name: 19120500006
+    Width: 397
+    Height: 0
+    Quality: 24
+    TextureGUID: 78f2e5a83293c5944b10e05ea8ee6ffc
+  - Name: 19120500007
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: 9569a6931a65bd047b0398c9336f592c
+  - Name: 19120500008
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: b5012d02a49b4e644a595a6bc2475b26
+  - Name: 19120500009
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 2dd43e0fd02faf84b8f4c84b8db1f1dc
+  - Name: 19120500010
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 60dfc341692a2d949a882af70084219a
+  - Name: 19120500011
+    Width: 397
+    Height: 0
+    Quality: 47
+    TextureGUID: af5c2ff5aeba781469d80fc4d94bc732
+  - Name: 19120500012
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: d0c6a3e7c91e58145843f75dbadc4204
+  - Name: 19120500013
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: 26ac81c6767a8fa4896383bb8f377ed9
+  - Name: 19120500014
+    Width: 397
+    Height: 0
+    Quality: 62
+    TextureGUID: d9d2802b316d83a4fa4aab3fd4eeecb5
+  - Name: 19120500015
+    Width: 397
+    Height: 0
+    Quality: 62
+    TextureGUID: c4581cde9a545bc4aa80940d4e633461
+  - Name: 19120500016
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 5695ec02efc5d8d4085d2f453bf1b59e
+  - Name: 19120500017
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 30b758b91d07ef041bbc2803e8512b5d
+  - Name: 19120500018
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: ba9a574650a63da4dbcc76acf7bd4d20
+  - Name: 19120500019
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 9ac29d5c91a134a43a20b003b616bb21
+  - Name: 19120500020
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 59afddecd9f515843b2d804cf7d7ae96
+  - Name: 19120500021
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 649f137ad317c7a40b577749bc112e89
+  - Name: 19120500022
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: fe6d4cd54e5b8414c926acf05c1d6c72
+  - Name: 19120500023
+    Width: 397
+    Height: 0
+    Quality: 74
+    TextureGUID: 15031f3daca225844bd785cc66c17f9c
+  - Name: 19120500024
+    Width: 397
+    Height: 0
+    Quality: 24
+    TextureGUID: eac196cfd7082e24ab83c3877a7b798a
+  - Name: 19120500025
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: 0e1b17249b580d445946ee7410490b9f
+  - Name: 19120500026
+    Width: 397
+    Height: 0
+    Quality: 30
+    TextureGUID: c7028085ce4beb94fbc2002c4a6b2e62
+  - Name: 19120500027
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: f3f047a316c7dd24e90c07bbd2891ca5
+  - Name: 19120500028
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: ef1f8d4b20306dc458bcc9bc1ff21df2
+  - Name: 19120500029
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: 78b4e4f6a7c17714da7f61c54187a28b
+  - Name: 19120500030
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: a7a719522e72afa4a9014e81ad75bb68
+  - Name: 19120500031
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: c9a6dba0a7632b244be48452ae70d00e
+  - Name: 19120500032
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 29760132e998b7c4b9be4d18e66f2ab0
+  - Name: 19120500033
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 2f1246b620fdabb428b2359fc44523c6
+  - Name: 19120500034
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: f6e8e73760f8c26439699c6b423e9f7d
+  - Name: 19120500035
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 66c638ab32400974b9078ab08ec31e48
+  - Name: 19120500036
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 1a10811dfb92e3340a68ca86fc452c60
+  - Name: 19120500037
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: d7c5d409f6c4a384daa68e0362d22b84
+  - Name: 19120500038
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: e7603a8581f136a47bd184de70d21f79
+  - Name: 19120500039
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: f208147e73f81a043a29bc602600753a
+  - Name: 19120500040
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: bdbae3a2400f796428b588e5b3cb1ffc
+  - Name: 19120500041
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: df3e368fb49e2984d84ca0a558ab625f
+  - Name: 19120500042
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 2aa894d2442a1654f9dfbda863801565
+  - Name: 19120500043
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 9c3218787db15ba47aa0cf821e910bc1
+  - Name: 19120500044
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 081fad520b1a8dd429166da00356c2bd
+  - Name: 19120500045
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 203d0126b2f7e0e4997f86d972befa6d
+  - Name: 19120500046
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: 7b4e97aa45f52784fa1268b510c03ec9
+  - Name: 19120500047
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 4b16ab15558208c41814a7ec72cf2355
+  - Name: 19120500048
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 88c7e5046effa96428a79b8c5cdb012d
+  - Name: 19120500049
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: ab50ca5bd21ebcf45845c930cc388a63
+  - Name: 19120500050
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: ea2c1bb9962b7614187551d7a9141fbf
+  - Name: 19120500051
+    Width: 397
+    Height: 0
+    Quality: 31
+    TextureGUID: d9093ba6bd3be974b81dc0a31412f0f3
+  - Name: 19120500052
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 7a994ce4bd919ec4e9c90c68b43ebd39
+  - Name: 19120500053
+    Width: 397
+    Height: 0
+    Quality: 23
+    TextureGUID: d5776030f1ae756408a9657ef4df55fe
+  - Name: 19120500054
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: e06941e04b9ae9b4db0b9f56fad214aa
+  - Name: 19120500055
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 419767cb18a7f0f49978b1d2365e7482
+  - Name: 19120500056
+    Width: 397
+    Height: 0
+    Quality: 32
+    TextureGUID: fdb5807337dd9d94a8853e29a63521f2
+  - Name: 19120500057
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: a899c046f3c276545a2ba531ecbef133
+  - Name: 19120500058
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: ea8bc5493eec677488156e3399fd1169
+  - Name: 19120500059
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: de0fe71ca44422c4ba831f259926e2ed
+  - Name: 19120500060
+    Width: 397
+    Height: 0
+    Quality: 32
+    TextureGUID: 50ceed1bd80545949aa0d6243932d7e0
+  - Name: 19120500061
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 681891790cd689b459d5153f5b2d81f9
+  - Name: 19120500062
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: fd763d4369ad0c540840000186c98ccf
+  - Name: 19120500063
+    Width: 397
+    Height: 0
+    Quality: 37
+    TextureGUID: c148044cb414e994aa0694cbe8c89159
+  - Name: 19120500064
+    Width: 397
+    Height: 0
+    Quality: 62
+    TextureGUID: 3c81af6004ebb4246acf6a1d36bd3206
+  - Name: 19120500065
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: ed65abf0176d0ec41b91456f497ef9fb
+  - Name: 19120500066
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 16a6ce417ae5f7447a63788da58cc7bb
+  - Name: 19120500067
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: aaba62288418fb6439735f404b530500
+  - Name: 19120500068
+    Width: 397
+    Height: 0
+    Quality: 36
+    TextureGUID: e97c0b8e710b15b4d9369fd8ea8c7d81
+  - Name: 19120500069
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 9adc00da68f72ec43a1e850e49c66c1d
+  - Name: 19120500070
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 332b451dd64d66d4284a7cbac73efd99
+  - Name: 19120500071
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: dc874004f5a9bdd4baf356bbbbbfd25e
+  - Name: 19120500072
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: 2b007ca8713b752428ec6f8783fe8a11
+  - Name: 19120500073
+    Width: 397
+    Height: 0
+    Quality: 29
+    TextureGUID: 63aecc3714454c1448c9333a6e916ccc
+  - Name: 19120500074
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 963a1956eaa1554468667a1521c88f7e
+  - Name: 19120500075
+    Width: 397
+    Height: 0
+    Quality: 29
+    TextureGUID: e1ea96d0afad8aa47b78bc17d476c929
+  - Name: 19120500076
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: ee7cb18dea36ab04aafac0c57fec9fc5
+  - Name: 19120500077
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: 3281d5a8fcc99aa45b9b031500489f44
+  - Name: 19120500078
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: e21ec6b1710e6d845ab70ef1846cd9f2
+  - Name: 19120500079
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: db8401a1006f7b7498b55c481ab7216e
+  - Name: 19120500080
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: b9e2f117df7756845b81becee27674d7
+  - Name: 19120500081
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 1ef68b81479ff0e40ae952145a8e1d83
+  - Name: 19120500082
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 552a7377157c2514794bbacdaef4fc61
+  - Name: 19120500083
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: 29732973e976db543ad0e6424e1adf2f
+  - Name: 19120500084
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: d82e7b697a4393b43a0423dcc91d3456
+  - Name: 19120500085
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: 7940c94eb6fd75f409ae46667a8d2157
+  - Name: 19120500086
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 1b36a837ce708e84da1a3908859f493f
+  - Name: 19120500087
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 00d39dc4e92af314c9695872a0039a92
+  - Name: 19120500088
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 65abfeed0b553b94d88c24f755b8fa66
+  - Name: 19120500089
+    Width: 397
+    Height: 0
+    Quality: 31
+    TextureGUID: 0a5bb847052f5cb4890b53e49cfa3021
+  - Name: 19120500090
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: fcfaa4a98a9c4ee4da2fce7d268a32b1
+  - Name: 19120500091
+    Width: 397
+    Height: 0
+    Quality: 29
+    TextureGUID: d8166d213a3c22c4bb977f8cbe5db7a7
+  - Name: 19120500092
+    Width: 397
+    Height: 0
+    Quality: 73
+    TextureGUID: 067a61cf47415904299b0f87d2b41484
+  - Name: 19120500093
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: d1887528cbe737e4f90eb03d1afd9894
+  - Name: 19120500094
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 0feacde1a328da244b3955aeff94ad27
+  - Name: 19120500095
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: c785a6d57deea984badae5e9e0adb220
+  - Name: 19120500096
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 6fa3cebc8af267f4dbac4fbb56be1038
+  - Name: 19120500097
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: 8e3219ddbdaefcd48827fc3ca6c9c418
+  - Name: 19120500098
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 011da12077e7c774ba3f6cd6dcfdc1fc
+  - Name: 19120500099
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: e206290a86cf3f848be6c346bab580b0
+  - Name: 201234_0000
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: c6d40a81abb0f5948923f9056fb1177b
+  - Name: 201234_0001
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: d66c5f123f566de4388419eb3949e268
+  - Name: 201234_0002
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 222fe7d6a3a29d64c959c4a0878e512e
+  - Name: 201234_0003
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: d3d7b5997068d8e40a21912f51b548b1
+  - Name: 201234_0004
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 95d99318441d29a419cfb5646973b9ff
+  - Name: 201234_0005
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 6c67a9aa8fda3004999fd18a3c4634e7
+  - Name: 201234_0006
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: b3ee4278492ec1441b34656d846e1961
+  - Name: 201234_0007
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: 06dafa2191f0d094083231ff911b4451
+  - Name: 201234_0008
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 57d7ddec57d08ac4bb3c2952811c309b
+  - Name: 201234_0009
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: 1fdcf907639e0f4449f24ea1b732c034
+  - Name: 201234_0010
+    Width: 397
+    Height: 0
+    Quality: 62
+    TextureGUID: 66b49de5b65eb404cac8eebc8d5fcfcd
+  - Name: 201234_0011
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: dae9c63e4ab9f884a9749d73bb876db2
+  - Name: 201234_0012
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: 5a0d707fef0621743b2d20e7f99b0ff8
+  - Name: 201234_0013
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: 9597c2ebbb768fd4686f3fc1d1299ab5
+  - Name: 201234_0014
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: 17c99000379bebd47965e66268ad5421
+  - Name: 201234_0015
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 79a51ba2c0b45d44f9d25a3e5b5723e4
+  - Name: 201234_0016
+    Width: 397
+    Height: 0
+    Quality: 73
+    TextureGUID: 2882a6e9e81f2754f82f24511ceadf7a
+  - Name: 201234_0017
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 4b60e8fb28c2e70448fc5a39832c0672
+  - Name: 201234_0018
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: c783b2512953e7040a9018f1d97858c3
+  - Name: 201234_0019
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 25b482141b76f004990ee71e5bb69f26
+  - Name: 201234_0020
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 8690aaadcc63d4b44850b1f10747f567
+  - Name: 201234_0021
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 25016f6a9d27e2e4c94f7209fb071085
+  - Name: 201234_0022
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: 2bf721e87140c2645b686d6ccb296fcc
+  - Name: 201234_0023
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 438a84ff6a0439846a4d27f1025c76cc
+  - Name: 201234_0024
+    Width: 397
+    Height: 0
+    Quality: 37
+    TextureGUID: 12da254a31f1a194ab0aa85c8fa372f2
+  - Name: 201234_0025
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: 7b91528e922c1cc4fa5750870228a848
+  - Name: 201234_0026
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: cdc0f66467028c0479ddbc9a65d5f3ff
+  - Name: 201234_0027
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: ef62eadb741ad1044a4d6537de28b038
+  - Name: 201234_0028
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: e0b15c34a7859044b8e2ab4e62d97b19
+  - Name: 201234_0029
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: fdc83424fcea05e4db2f0fdc146f52f1
+  - Name: 201234_0030
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: d90ef659ddc98ff49a88e4f9bfd94645
+  - Name: 201234_0031
+    Width: 397
+    Height: 0
+    Quality: 47
+    TextureGUID: bd7a19e9e8be8b444a711eb263f0136f
+  - Name: 201234_0032
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 33c97e2571f2727498fe01d0432d7381
+  - Name: 201234_0033
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: c64786e87d266884c8a0134e7707a5b1
+  - Name: 201234_0034
+    Width: 397
+    Height: 0
+    Quality: 46
+    TextureGUID: 57ca61505cc0c2144bb7b4a8065035df
+  - Name: 201234_0035
+    Width: 397
+    Height: 0
+    Quality: 38
+    TextureGUID: 8d81f78578620d444be3576daa7f1804
+  - Name: 201234_0036
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: da524169637dd3046b5ddc96b2127810
+  - Name: 201234_0037
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: d5bfb0323ee92274c820a46f0793e486
+  - Name: 201234_0038
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: abd7b6df877391d449bfae03cc60cb3e
+  - Name: 201234_0039
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: abbe414344737bf4a875bc9d909af447
+  - Name: 201234_0040
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: 37d877c7c3368d149b8474e3aac49f1f
+  - Name: 201234_0041
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 062de677e94b85c44843cbad9a680436
+  - Name: 201234_0042
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: ee09de115984e63498000d8d0dcfb977
+  - Name: 201234_0043
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: 72349f0b05da68f45b8ca32ea5407660
+  - Name: 201234_0044
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: 413323c5620ed5444800ef9e2e19453b
+  - Name: 201234_0045
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: c54b614275595614f99f512eef60fd5c
+  - Name: 201234_0046
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 6991b1208d2469e4883a266ef7bb2961
+  - Name: 201234_0047
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 1db456779e03a01479d1e6a6f9b60513
+  - Name: 201234_0048
+    Width: 397
+    Height: 0
+    Quality: 44
+    TextureGUID: cfc3d155b8b6a1040888bac045f61946
+  - Name: 201234_0049
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: 0ef8f504861d11947895ba92c2693a5d
+  - Name: 201234_0050
+    Width: 397
+    Height: 0
+    Quality: 24
+    TextureGUID: 45396fed2eafe584388ec2fd15c9089b
+  - Name: 201234_0051
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 39392334b63493542b83c55457efa14f
+  - Name: 201234_0052
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 9412db3e73502a94e9a076dcec35225e
+  - Name: 201234_0053
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 73a28c751b7178642895c3098d1e79a9
+  - Name: 201234_0054
+    Width: 397
+    Height: 0
+    Quality: 41
+    TextureGUID: 1282f23f2f45e6648ae2bf7f2535c9d2
+  - Name: 201234_0055
+    Width: 397
+    Height: 0
+    Quality: 46
+    TextureGUID: 785afc0c848631a408573cd9d8a3f0e9
+  - Name: 201234_0056
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 45f5f51d988b3c74d95ca7b5cbc13f5b
+  - Name: 201234_0057
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 30460c5c0b796ea4499a1a9abed2e811
+  - Name: 201234_0058
+    Width: 397
+    Height: 0
+    Quality: 62
+    TextureGUID: b822311c556cfde438d639173dc5aaf3
+  - Name: 201234_0059
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: 09d84e8785bb94e44b9f6d660f7547fd
+  - Name: 201234_0060
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 12cb4444297994c4b8126f80a4bfb724
+  - Name: 201234_0061
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: c8861601e57a7634b8460c271df319c6
+  - Name: 201234_0062
+    Width: 397
+    Height: 0
+    Quality: 42
+    TextureGUID: 1fc0a8a6d1a55b14aa75d25051d925a9
+  - Name: 201234_0063
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: fddffc7ae0d3b7f41bee1c5a17615703
+  - Name: 201234_0064
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 27417171c1c3f594191f5ef64811a2bf
+  - Name: 201234_0065
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: ee4654297f6092b4285ff70d23ce1d6c
+  - Name: 201234_0066
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: c85557626a5967440a25d0a115dc2db4
+  - Name: 201234_0067
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: ceefb63b212b66440a9cd30cebf5c0a5
+  - Name: 201234_0068
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: b8cdfc74d7917524fb7c0e143341e2fa
+  - Name: 201234_0069
+    Width: 397
+    Height: 0
+    Quality: 47
+    TextureGUID: 7b797c0373c41904f95558c1a5636c08
+  - Name: 201234_0070
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: d188250ea457b5840a8869908a0bd3c7
+  - Name: 201234_0071
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 11405cde0d24fc540b3cc978cecec689
+  - Name: 201234_0072
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: ba6b9bacb75a31a46a1dcca09db65263
+  - Name: 201234_0073
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 89088fc07abf3e94382ad05c76ad665f
+  - Name: 201234_0074
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: 813d877ce44dc5e40b2d944a150b8298
+  - Name: 201234_0075
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: c5a1442b91e80d241a2b0d82f9d9adfe
+  - Name: 201234_0076
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 11e94e4921f1f2e4ebf4a8b8419d8124
+  - Name: 201234_0077
+    Width: 397
+    Height: 0
+    Quality: 40
+    TextureGUID: b158e6362ab1f53449fef019f9ab656e
+  - Name: 201234_0078
+    Width: 397
+    Height: 0
+    Quality: 26
+    TextureGUID: d93d70e03b44688488494722cd78773d
+  - Name: 201234_0079
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 1ef73f2e958c98a4f837abf0c855ccc7
+  - Name: 201234_0080
+    Width: 397
+    Height: 0
+    Quality: 18
+    TextureGUID: cf195b49a5d035741834333a6249abb6
+  - Name: 201234_0081
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: dc93bbed44f6d674eb19eb6e82d60f56
+  - Name: 201234_0082
+    Width: 397
+    Height: 0
+    Quality: 38
+    TextureGUID: bd565245976c5014bba0adf5cd370914
+  - Name: 201234_0083
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 4ea974e61c5d50e478799e6779cbf649
+  - Name: 201234_0084
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 046c8a9ffdce8664da5df6e65d80cfae
+  - Name: 201234_0085
+    Width: 397
+    Height: 0
+    Quality: 32
+    TextureGUID: 2cde6e727f7f3e1418de1ffc6350e6e6
+  - Name: 201234_0086
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 6438732b67173434d8405d473f728b1e
+  - Name: 201234_0087
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: 00aaac47457454f4cb78de56d605c8c4
+  - Name: 201234_0088
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 9f04928b4d686534783179583e740355
+  - Name: 201234_0089
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: 7dd9893e02161724ca853a0fe23ee62d
+  - Name: 201234_0090
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: 367da3f149f24df409105b833fd693f3
+  - Name: 201234_0091
+    Width: 397
+    Height: 0
+    Quality: 35
+    TextureGUID: a2bf5e08ae7429347a2a620d69109908
+  - Name: 201234_0092
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: 26abd2eebb4593649a0adbea15c9ae96
+  - Name: 201234_0093
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: d679345a0dd816f43b8e95fc6f7ba15e
+  - Name: 201234_0094
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: bfbf03f938bc63a4d84b3c0365e7ff54
+  - Name: 201234_0095
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: efc2bdbf032ed3743a8fa3976649b8f3
+  - Name: 201234_0096
+    Width: 397
+    Height: 0
+    Quality: 28
+    TextureGUID: 0591fdb36f2ba1b41834b0a420832e0a
+  - Name: 201234_0097
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 8aba6a5c090563943823c9bab8bc854f
+  - Name: 201234_0098
+    Width: 397
+    Height: 0
+    Quality: 32
+    TextureGUID: 98477303853c3f649bffc4bc8243708f
+  - Name: 201234_0099
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 08ee0d446f893d641bc401a30050ec94
+  - Name: 201248_0000
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 59835cd8399b24a4baa809d58ebc8b51
+  - Name: 201248_0001
+    Width: 397
+    Height: 0
+    Quality: 36
+    TextureGUID: 084c867c6e2ee904bb8f486d237ef9f2
+  - Name: 201248_0002
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: 78077fe91e16d7f4a9371699bbde871a
+  - Name: 201248_0003
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: b9a9150bcc9b0774b9770a5b1d3cf0dc
+  - Name: 201248_0004
+    Width: 397
+    Height: 0
+    Quality: 30
+    TextureGUID: 61ef7abe66283b140921dd9c1f2ddd7b
+  - Name: 201248_0005
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: 9b7e3352b4180db40829e8773cc08cdb
+  - Name: 201248_0006
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 168e277f8b76ae7479821923af0665e9
+  - Name: 201248_0007
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: b6d1096f7903e6444b9a22d4946fd0f6
+  - Name: 201248_0008
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 27d05157fc020354f96cff66eca5d3ba
+  - Name: 201248_0009
+    Width: 397
+    Height: 0
+    Quality: 31
+    TextureGUID: 879a46425623fa949b98b1c5406314fd
+  - Name: 201248_0010
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: b0c7528a5fd2eb140a8debead98ed685
+  - Name: 201248_0011
+    Width: 397
+    Height: 0
+    Quality: 62
+    TextureGUID: a6ff50507b390ca41a39b186b7642a43
+  - Name: 201248_0012
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 73fc52eab5d4d214a98d10a4dfbbd0f3
+  - Name: 201248_0013
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: 9c209de853afed74fb8eaa2e3704ea68
+  - Name: 201248_0014
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: b984ab34db78ed942baf9e52c7ec1002
+  - Name: 201248_0015
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 87e8f11a11880a84b92a3b951a4090f0
+  - Name: 211204_0000
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: 962e9558cb89dc74c882ed60eeeae72d
+  - Name: 211204_0001
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 3206481d40a628f4893b99f4057ebeec
+  - Name: 211204_0002
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: 448a9de2142c9e64e8b13b787efbaa9e
+  - Name: 211204_0003
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 243e35f6142a66049bcc29e4f5a4b4fe
+  - Name: 211204_0004
+    Width: 397
+    Height: 0
+    Quality: 24
+    TextureGUID: cc703802e4345d640a86c510ce7319a5
+  - Name: 211204_0005
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 9e80351f7c25f0542a290936356b8004
+  - Name: 211204_0006
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: c6292ec7174522545a449199c390d1d8
+  - Name: 211204_0007
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: e3af045398ff3c240aaef1ca545b3aa3
+  - Name: 211204_0008
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: 13ebb826845d8fd4a8d8e537bb47c684
+  - Name: 211204_0009
+    Width: 397
+    Height: 0
+    Quality: 20
+    TextureGUID: 4eb647e14bda1f34586a048bb0f5b1ee
+  - Name: 211204_0010
+    Width: 397
+    Height: 0
+    Quality: 47
+    TextureGUID: c647c6e33f1ad0a4f930bdebd0bb2137
+  - Name: 211204_0011
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: f9cd06eacc924c54a81b547c294c763c
+  - Name: 211204_0012
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 596e6a1620b369a48b24ac05f9e0cbb6
+  - Name: 211204_0013
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: 203d4538ac7d34749a45395a9300742a
+  - Name: 211204_0014
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 892efefe426720741bf062cfc5cdf72d
+  - Name: 211204_0015
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 08f3a7884b49ae14b9b14ee1a4343bb2
+  - Name: 211204_0016
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 7b063b82495b76a45ae667afa15c8fb0
+  - Name: 211204_0017
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 969ce134d747d4541a39c7811f19ce4e
+  - Name: 211204_0018
+    Width: 397
+    Height: 0
+    Quality: 36
+    TextureGUID: 9d637908e7118294782b7556b7ab6ca5
+  - Name: 211204_0019
+    Width: 397
+    Height: 0
+    Quality: 26
+    TextureGUID: 30b8b31205d0dfe4bb6dd8682ed8431c
+  - Name: 211204_0020
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: f56f88a19fa72a04e9dee3dee8df9fe5
+  - Name: 211204_0021
+    Width: 397
+    Height: 0
+    Quality: 26
+    TextureGUID: 0da911b237a9bbd40a1e0dcdf6bf1fb4
+  - Name: 211204_0022
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: b81f9229e9c73644784398e190a5532e
+  - Name: 211204_0023
+    Width: 397
+    Height: 0
+    Quality: 40
+    TextureGUID: 75156665177e6eb41be4d8b5b0858b97
+  - Name: 211204_0024
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: 69d88c31be8352f418bc4ff5b7aa92b9
+  - Name: 211204_0025
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 5dc1dce9ecdcf44459382f2580a5fcf7
+  - Name: 211204_0026
+    Width: 397
+    Height: 0
+    Quality: 40
+    TextureGUID: d7a35b3a64a2c2b4c9548716f5edb348
+  - Name: 211204_0027
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 44df78b4798a9ef4b9af9cd3372dc6f6
+  - Name: 211204_0028
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 0b825e1520f2e874da47763e389603be
+  - Name: 211204_0029
+    Width: 397
+    Height: 0
+    Quality: 20
+    TextureGUID: f21477e1e7ffb4749904f2bb8befb4bd
+  - Name: 211204_0030
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 3e9e609da2c575748803d44bfd8d59dd
+  - Name: 211204_0031
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 8f328fc9dc578e14cbbfa9687d62c194
+  - Name: 211204_0032
+    Width: 397
+    Height: 0
+    Quality: 29
+    TextureGUID: 4c8c441f42dfc24448bd17345bbf7402
+  - Name: 211204_0033
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 929c12a2412983a48812a2dae0b1e251
+  - Name: 211204_0034
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: af09c17b413b8654e93324d0ad420d5b
+  - Name: 211204_0035
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: 27fcd4be1b3de05408cd62eed0671f4f
+  - Name: 211204_0036
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: 154d210859d9b6e4a8c593b63b8f6c3b
+  - Name: 211204_0037
+    Width: 397
+    Height: 0
+    Quality: 19
+    TextureGUID: 7d41260604f3bcd48a14fd9478783c64
+  - Name: 211204_0038
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 1c26cf64aac50c64a8bc60e6e88cd527
+  - Name: 211204_0039
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 8a96049ea31ae68489a17716144b5442
+  - Name: 211204_0040
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: 21a211190eec36b4db4eb9a63d13f678
+  - Name: 211204_0041
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: f0fa3ed42b4cc694d84e424830e6ab40
+  - Name: 211204_0042
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: 78b6053febfec2e4d97b179f6ff631e7
+  - Name: 211204_0043
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 59795d09570dc6c42ae3dc81091b5464
+  - Name: 211204_0044
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: ac25301a098557249bf5256245e00fda
+  - Name: 211204_0045
+    Width: 397
+    Height: 0
+    Quality: 42
+    TextureGUID: b64e05339f2b82149a7e6fb29a8ad84f
+  - Name: 211204_0046
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: 1a0055b3afa426c4d9ce200da6f25d6a
+  - Name: 211204_0047
+    Width: 397
+    Height: 0
+    Quality: 44
+    TextureGUID: 710a1c268e6f36542902dc373c4bce9e
+  - Name: 211204_0048
+    Width: 397
+    Height: 0
+    Quality: 35
+    TextureGUID: 21ad348d91db124469ece7ada90e7719
+  - Name: 211204_0049
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: a53c777f5f30ec84894330af90e3f40f
+  - Name: 211204_0050
+    Width: 397
+    Height: 0
+    Quality: 73
+    TextureGUID: edbed5441bc56494d97c5f5ae1ea12df
+  - Name: 211204_0051
+    Width: 397
+    Height: 0
+    Quality: 73
+    TextureGUID: 908424cf402d4ce47be566e3003a82c5
+  - Name: 211204_0052
+    Width: 397
+    Height: 0
+    Quality: 73
+    TextureGUID: 6c38547072faea0479bfc5a3627373c1
+  - Name: 211204_0053
+    Width: 397
+    Height: 0
+    Quality: 37
+    TextureGUID: 53165dc91d98e324da49c18c9d428b70
+  - Name: 211204_0054
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: e15815ddbd7dc464c8260157a72a158e
+  - Name: 211204_0055
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 89d9dc4d6cee5c640b53bd7696e5d966
+  - Name: 211204_0056
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: 9f4465f1dd039c1408a240fcfbd53d2c
+  - Name: 211204_0057
+    Width: 397
+    Height: 0
+    Quality: 40
+    TextureGUID: 7a79ce2b5dbb5c34db1139d7bce601b6
+  - Name: 211204_0058
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 2c4d119d267955447bb66ff1d374552b
+  - Name: 211204_0059
+    Width: 397
+    Height: 0
+    Quality: 49
+    TextureGUID: 7e02c060e329f38478675056cc7f72ce
+  - Name: 211204_0060
+    Width: 397
+    Height: 0
+    Quality: 35
+    TextureGUID: 0a751ab077084a14688f552d39945000
+  - Name: 211204_0061
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 8dfdbf7538c756a4b884a1339c4be4fe
+  - Name: 211204_0062
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: ed086998fb967ec46ac948072da15436
+  - Name: 211204_0063
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: 743ebb457ea09ef409c6c91cc20b82cf
+  - Name: 211204_0064
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 34f7042a299ca6444b3e83fc879b85aa
+  - Name: 211204_0065
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 890b9968739ba0e40982fff8a48444b3
+  - Name: 211204_0066
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 0a30908a4cdb12e4f89811cbbd725e89
+  - Name: 211204_0067
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 4ca2e13910491824e985028f01e613e0
+  - Name: 211204_0068
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: c2ec64081dd8e6d46a66ffd4bc026086
+  - Name: 211204_0069
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: c5383ec8b5be01d4b8e6e9d983fa3511
+  - Name: 211204_0070
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: b41aa1da2afaae445a7aba028c5200fd
+  - Name: 211204_0071
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: c983f7d3afe147a4abdeabed66fe9cf2
+  - Name: 211204_0072
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 34cd636fecd887e4694d344cf10e7f9c
+  - Name: 211204_0073
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: e66358125ebb2d841aedec9886843de7
+  - Name: 211204_0074
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: b5407fe2c717ba8478742727f122e745
+  - Name: 211204_0075
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: f3e7f675637df6846aa3940cf62a64b5
+  - Name: 211204_0076
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: a1c1788c5859c6a49b1ec82af382d217
+  - Name: 211204_0077
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: a94328a3b91d9ee49bb887942dcde218
+  - Name: 211204_0078
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 0f723cb5863ca4c439b8fbad26ed9e49
+  - Name: 211204_0079
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: d8b2d7e51dbc26a42acd552e46856277
+  - Name: 211204_0080
+    Width: 397
+    Height: 0
+    Quality: 37
+    TextureGUID: c918dee0f80cc1249b501e453b142fdf
+  - Name: 211204_0081
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 6dd605597140b4641bdb1f0e18e8202e
+  - Name: 211204_0082
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 95bf3c0e48c029c40b305eb76a4a732d
+  - Name: 211204_0083
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: f6a91468d9a8c4f4aaf1e3332e76c4da
+  - Name: 211204_0084
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: cdd0d3c8ac0c5ac46aa0f287f615fbcb
+  - Name: 211204_0085
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 2bcd08c927d9f2342908e0839d1bf53c
+  - Name: 211204_0086
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 90de3c21919ec47448e02a9c5382d334
+  - Name: 211204_0087
+    Width: 397
+    Height: 0
+    Quality: 44
+    TextureGUID: fb23b5df72a8ec942bfeb02fa0e349b3
+  - Name: 211204_0088
+    Width: 397
+    Height: 0
+    Quality: 22
+    TextureGUID: c4dc9a1638ab4bf41800c773907bd2e5
+  - Name: 211204_0089
+    Width: 397
+    Height: 0
+    Quality: 28
+    TextureGUID: 145b1eb868501324384ef5bebab41788
+  - Name: 211204_0090
+    Width: 397
+    Height: 0
+    Quality: 41
+    TextureGUID: 7f7db92881ba39246b03c560bde44f48
+  - Name: 211204_0091
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: 29ec7f9ead71a8643be8598e0fbe2608
+  - Name: 211204_0092
+    Width: 397
+    Height: 0
+    Quality: 47
+    TextureGUID: 19fa85c99e6ca8243a19ee2a5bd85709
+  - Name: 211204_0093
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 367f6d07d915e6c4bbdb7692ce2d3ab3
+  - Name: 211204_0094
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 308d5f6e57b8d5943be49aeb3456955e
+  - Name: 211204_0095
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 0607dc82142db1041a3eda37d65f5489
+  - Name: 211204_0096
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 3dbe18856a392c543a487eb61b472281
+  - Name: 211204_0097
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 45c6348f1ae47f140b66b0ccb866df90
+  - Name: 211204_0098
+    Width: 397
+    Height: 0
+    Quality: 31
+    TextureGUID: 135541cd633d61640a8bb25bc73e3b0a
+  - Name: 211204_0099
+    Width: 397
+    Height: 0
+    Quality: 20
+    TextureGUID: d3d7a5b2785f45441a0c72fa2f8fa3ca
+  - Name: 211208_0000
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: 1147d6b5f1d012f4daa13c3a1dbc6bf1
+  - Name: 211208_0001
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: 0d9dd57cab5271845b0810c6e2192cbb
+  - Name: 211208_0002
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 3bc0731c2c587d546833e1fbc227a870
+  - Name: 211208_0003
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 161da144721f25e4aa0a23a6d9ed0a66
+  - Name: 211208_0004
+    Width: 397
+    Height: 0
+    Quality: 36
+    TextureGUID: bf95ed6263053224e9ea92f9d2868680
+  - Name: 211208_0005
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: b93cdc5ffeeaa8748a51ac055a43d02b
+  - Name: 211208_0006
+    Width: 397
+    Height: 0
+    Quality: 44
+    TextureGUID: f4b777dd3a9dbc1449119c2f94893495
+  - Name: 211208_0007
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: f62c6be977f34b94eaac48d12016460b
+  - Name: 211208_0008
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: 4f3d605caff8dac4c8234f667e0ed4f0
+  - Name: 211208_0009
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: b3ca0f5b1d116584eb9ff962bf936ad0
+  - Name: 211208_0010
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: 1a47ed947d4223e489a6cb76142b1bc2
+  - Name: 211208_0011
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 20186734a50bd354d83562bf97858028
+  - Name: 211208_0012
+    Width: 397
+    Height: 0
+    Quality: 38
+    TextureGUID: c94b56a1ec0b6ab48bf633180eef577c
+  - Name: 211208_0013
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: 3710a173b4d09ff439ea0bf5936a34a8
+  - Name: 211208_0014
+    Width: 397
+    Height: 0
+    Quality: 31
+    TextureGUID: c8901ed39eb84ac42a16579cbe6fcde3
+  - Name: 211208_0015
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 77a89a2c12be59d4ab2e17419e340ee3
+  - Name: 211208_0016
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 36f2f7a9075c753499a4f3d28c34016c
+  - Name: 211208_0017
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: b34c799baab7654488caa747d16cea03
+  - Name: 211208_0018
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: 71384f555728add4b991b8cbc7e42843
+  - Name: 211208_0019
+    Width: 397
+    Height: 0
+    Quality: 44
+    TextureGUID: f132803971bdfa144beb9ea6026ebd95
+  - Name: 211208_0020
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 6be6b371c0d966641a9dd9e4daefff2b
+  - Name: 211208_0021
+    Width: 397
+    Height: 0
+    Quality: 47
+    TextureGUID: 2fdbafcc1eaf402428be2881c32cec06
+  - Name: 211208_0022
+    Width: 397
+    Height: 0
+    Quality: 66
+    TextureGUID: 801f70321777532468d026d1c937245a
+  - Name: 211208_0023
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 882c7217ce7921748adacab878911c48
+  - Name: 211208_0024
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: d0e12610bbe1d2d41bac3214468cb597
+  - Name: 211208_0025
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 9487d5a86104dfd4ab4b2b0e61fbf856
+  - Name: 211208_0026
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 2c7d11d242c5ed54e84b8cabd2f89b86
+  - Name: 211208_0027
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 061071e5a8e7bb746bacabbf29df20ef
+  - Name: 211208_0028
+    Width: 397
+    Height: 0
+    Quality: 74
+    TextureGUID: b653efd98b2626a47a7cbd0535a4d52e
+  - Name: 211208_0029
+    Width: 397
+    Height: 0
+    Quality: 42
+    TextureGUID: 5c5d33c5f6f4a0e4eb04a8ba5d385f4b
+  - Name: 211208_0030
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: c8bc59f03fc9405409eddfee9af3b0dc
+  - Name: 211208_0031
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 772cafd880bb0104c95480ec4050c5a7
+  - Name: 211208_0032
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 75bfb1be18713fa41b46ed95917261b4
+  - Name: 211208_0033
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: 89e5b679a83019e47a78c365d1ded163
+  - Name: 211208_0034
+    Width: 397
+    Height: 0
+    Quality: 35
+    TextureGUID: e909cdb0ebc9ae1448d8e7ca987a1bb9
+  - Name: 211208_0035
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 92c305d8eef6f2a46b58bc89e3c8fa1c
+  - Name: 211208_0036
+    Width: 397
+    Height: 0
+    Quality: 68
+    TextureGUID: 66cd7995bfd96d545a976d40907d1ff1
+  - Name: 211208_0037
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 6d2f5a003b02edf4581b2ac4e126a507
+  - Name: 211208_0038
+    Width: 397
+    Height: 0
+    Quality: 61
+    TextureGUID: fe4f0adff9f7d924eb310fb876be5368
+  - Name: 211208_0039
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: cbef6a9283afea046b662204c576b698
+  - Name: 211208_0040
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: 398d00ed59837734082ec8cdbdcb2524
+  - Name: 211208_0041
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: f784a6e74babca44da45311435ba2ac4
+  - Name: 211208_0042
+    Width: 397
+    Height: 0
+    Quality: 72
+    TextureGUID: e9e58550068f6f149a1a38ec1121a5a0
+  - Name: 211208_0043
+    Width: 397
+    Height: 0
+    Quality: 38
+    TextureGUID: 05f67ca64f663934f85b8b03213a6f5d
+  - Name: 211208_0044
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: 2f09586d0e747d34fa485de2404e0ecf
+  - Name: 211208_0045
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: dde2183550cd353429c61c7a54e9d078
+  - Name: 211208_0046
+    Width: 397
+    Height: 0
+    Quality: 28
+    TextureGUID: aa31c9915cb034f418196828b4f662b4
+  - Name: 211208_0047
+    Width: 397
+    Height: 0
+    Quality: 43
+    TextureGUID: 20c6b60794908aa49bd6f614f4b7ed5e
+  - Name: 211208_0048
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: 9dc471b37b1af7845b85060ad882ac28
+  - Name: 211208_0049
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: d4cabd536e6e23b48922f32371b22b27
+  - Name: 211208_0050
+    Width: 397
+    Height: 0
+    Quality: 60
+    TextureGUID: 9f9ca9e53268cd04ab2a1929ebac729e
+  - Name: 211208_0051
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: ed9e28a38baad894ea740db54eff6532
+  - Name: 211208_0052
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: 18c4c38c278714149a7752bd484d43c7
+  - Name: 211208_0053
+    Width: 397
+    Height: 0
+    Quality: 45
+    TextureGUID: e8b5109055265924eb025b8887ba30e4
+  - Name: 211208_0054
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: c64b68cb85a1bd54f99a24ce271a7e54
+  - Name: 211208_0055
+    Width: 397
+    Height: 0
+    Quality: 59
+    TextureGUID: bf28c2221b3227d41ad0b03fdec8153a
+  - Name: 211208_0056
+    Width: 397
+    Height: 0
+    Quality: 39
+    TextureGUID: 2c990401045bdb343b9f1072ee21abb7
+  - Name: 211208_0057
+    Width: 397
+    Height: 0
+    Quality: 63
+    TextureGUID: 81bc8dd82b5726243b81784377661205
+  - Name: 211208_0058
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: 97da199f008da9e4e9a6d068bd8bf072
+  - Name: 211208_0059
+    Width: 397
+    Height: 0
+    Quality: 73
+    TextureGUID: 2ee649bed3f4de44ab2bb4c28761dcb9
+  - Name: 211208_0060
+    Width: 397
+    Height: 0
+    Quality: 48
+    TextureGUID: 046218a4e5c129e45b47dbaca7f0a4ea
+  - Name: 211208_0061
+    Width: 397
+    Height: 0
+    Quality: 44
+    TextureGUID: 7a5d6b280c6661040b3d84ab738c6d4c
+  - Name: 211208_0062
+    Width: 397
+    Height: 0
+    Quality: 58
+    TextureGUID: 84194957108c28141adb4cdbbb07a885
+  - Name: 211208_0063
+    Width: 397
+    Height: 0
+    Quality: 34
+    TextureGUID: 1c5ade65e97bf04468ce4a9ba047d5d1
+  - Name: 211208_0064
+    Width: 397
+    Height: 0
+    Quality: 36
+    TextureGUID: 57a3bf1226a689647b723991a18ca0b3
+  - Name: 211208_0065
+    Width: 397
+    Height: 0
+    Quality: 57
+    TextureGUID: b1a217a21fdc4b147b9b15c9040511ea
+  - Name: 211208_0066
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: bb6f4a5b8b787604e9aa16f7ab09994b
+  - Name: 211208_0067
+    Width: 397
+    Height: 0
+    Quality: 32
+    TextureGUID: 6e509b638095fcc479e1cd0c8f72db54
+  - Name: 211208_0068
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: bf60cbb609c720e43ba963167749730a
+  - Name: 211208_0069
+    Width: 397
+    Height: 0
+    Quality: 33
+    TextureGUID: c9dba6b067c58f743865c8c5116cedbd
+  - Name: 211208_0070
+    Width: 397
+    Height: 0
+    Quality: 71
+    TextureGUID: a21a9dafb3a5b504ab9739ee0b9bc17b
+  - Name: 211208_0071
+    Width: 397
+    Height: 0
+    Quality: 54
+    TextureGUID: 4e655d6f62da4e54b96626444fc867f3
+  - Name: 211208_0072
+    Width: 397
+    Height: 0
+    Quality: 67
+    TextureGUID: 2c652a11307db1f429918f8a081084d5
+  - Name: 211208_0073
+    Width: 397
+    Height: 0
+    Quality: 42
+    TextureGUID: 0f45cb64974bc7a41b3589d21cab777b
+  - Name: 211208_0074
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: 0a808a9b2a756544a89d6a5657a81f25
+  - Name: 211208_0075
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: 2b1b3513df76ae14583dabb249d043b5
+  - Name: 211208_0076
+    Width: 397
+    Height: 0
+    Quality: 52
+    TextureGUID: b0feefec131984045ac380934a14414a
+  - Name: 211208_0077
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: ceeca672f15a2e34a8700b060a0e4fec
+  - Name: 211208_0078
+    Width: 397
+    Height: 0
+    Quality: 69
+    TextureGUID: 07335161610af954dab6b24a04620f38
+  - Name: 211208_0079
+    Width: 397
+    Height: 0
+    Quality: 32
+    TextureGUID: 4f04cb2378a9a1a42822003bdbb4e825
+  - Name: 211208_0080
+    Width: 397
+    Height: 0
+    Quality: 55
+    TextureGUID: c1c9a716b79fdd8438e0d7b74d2ea3c3
+  - Name: 211208_0081
+    Width: 397
+    Height: 0
+    Quality: 65
+    TextureGUID: 0155a31ce0ec07d48b185c885dc7857d
+  - Name: 211208_0082
+    Width: 397
+    Height: 0
+    Quality: 53
+    TextureGUID: 3f26d668667a3ff4ab423d3ba1aae2b1
+  - Name: 211208_0083
+    Width: 397
+    Height: 0
+    Quality: 70
+    TextureGUID: 20df25bb1e4d3554a8545ab199ff7546
+  - Name: 211208_0084
+    Width: 397
+    Height: 0
+    Quality: 64
+    TextureGUID: bba814291fe30c342800c66cedc64e99
+  - Name: 211208_0085
+    Width: 397
+    Height: 0
+    Quality: 31
+    TextureGUID: 239bdf6da02493e40adc9db88c91765a
+  - Name: 211208_0086
+    Width: 397
+    Height: 0
+    Quality: 56
+    TextureGUID: f9de4cd2083b058478cfd34917f1b52d
+  - Name: 211208_0087
+    Width: 397
+    Height: 0
+    Quality: 51
+    TextureGUID: ccbcb0a7d6a60c046a453a9b8cd1a682
+  - Name: 211208_0088
+    Width: 397
+    Height: 0
+    Quality: 50
+    TextureGUID: 0c0830bd70aa89d4ca0cb4969ed1923d
+  - Name: 211208_0089
+    Width: 397
+    Height: 397
+    Quality: 56
+    TextureGUID: f8517acc33a769e4d92ff2211e129d19
+  - Name: 211208_0090
+    Width: 397
+    Height: 397
+    Quality: 72
+    TextureGUID: f4ebc4919ac2f654cb38d2af9e45e713
+  - Name: 211208_0091
+    Width: 397
+    Height: 397
+    Quality: 64
+    TextureGUID: 834670a1197ee8e4791bc659c5493e54
+  - Name: 211208_0092
+    Width: 397
+    Height: 397
+    Quality: 59
+    TextureGUID: d197005351d810549b7e1d87cf3882f9
+  - Name: 211208_0093
+    Width: 397
+    Height: 397
+    Quality: 27
+    TextureGUID: fab633ad17ac0334298a46ab399baed3
+  - Name: 211208_0094
+    Width: 397
+    Height: 397
+    Quality: 67
+    TextureGUID: bccbcc0d322d9954cbc8702d40937b12
+  - Name: 211208_0095
+    Width: 397
+    Height: 397
+    Quality: 38
+    TextureGUID: 67ba8ebd7b650074db38ee9572b3dcc6
+  - Name: 211208_0096
+    Width: 397
+    Height: 397
+    Quality: 58
+    TextureGUID: 2639c30b1408fd4418266165a6d6f3b4
+  - Name: 211208_0097
+    Width: 397
+    Height: 397
+    Quality: 54
+    TextureGUID: 177a14fd192b73b499e9d16a572f463b
+  - Name: 211208_0098
+    Width: 397
+    Height: 397
+    Quality: 33
+    TextureGUID: 1a6932739c7d74f429fc46ab4c40b9bb
+  - Name: 211208_0099
+    Width: 397
+    Height: 397
+    Quality: 52
+    TextureGUID: 960cf8abcf2e8ae4b9283d51d1234659
